@@ -1,0 +1,16 @@
+{
+  "name": "AiLove.CC",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "description": "AiLove - Communication Center",
+  "author": {
+    "name": "TT"
+  },
+  "dependencies": {
+    "mongodb": "^3.0.1",
+    "mosca": "^2.7.0"
+  }
+}
